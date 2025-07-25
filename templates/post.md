@@ -1,11 +1,11 @@
 ---
 layout: single
-title:  "%^{Title}"
-date:   %<%Y>-%<%m>-%<%d>
-desc: "%^{Description}"
-keywords: "%^{Keywords (comma separated)}"
-categories: [%^{Categories (comma separated)}]
-tags: [%^{Tags (comma separated)}]
+title:  "Post Title"
+date:   2023-01-01
+desc: "Description"
+keywords: "keyword1, keyword2"
+categories: [category1]
+tags: [tag1]
 icon: icon-default
 ---
 %?

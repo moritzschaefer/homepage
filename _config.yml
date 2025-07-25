@@ -123,7 +123,7 @@ naver_site_verification  :
 twitter:
   username               : muronglizi
 bluesky:
-  username               : "@moritzbaio@bsky.social"
+  username               : "@moritzbaio.bsky.social"
 facebook:
   username               :
   app_id                 :
@@ -168,7 +168,8 @@ author:
     #   icon: "fas fa-fw fa-link"
     #   url: "https://your-website.com"
     - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky-square"
+      icon: "fas fa-fw fa-share-square"
+      url: "https://bsky.app/profile/moritzbaio.bsky.social"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/muronglizi"
